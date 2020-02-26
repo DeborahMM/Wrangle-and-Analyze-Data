@@ -3,7 +3,7 @@ In this Udacity project, the tweet archive of Twitter user @dog_rates, also know
 ## Overview
 The Twitter account rates people's dogs with a humorous comment about the dog and typically a rating out of 10. WeRateDogs asks people to send photos of their dogs which are rated on a scale of one to ten, but are invariably given ratings that exceeds the maximum.
 ## Software
-- Python (Numpy, Pandas, Requests, Tweepy, Json, Counter, re, time, datetime, Matplotlib)
+- Python (Numpy, Pandas, Requests, Tweepy, Json, Counter, Re, Time, Datetime, Matplotlib)
 - Jupyter Notebook
 ## Steps
 Data wrangling, which consists of:
